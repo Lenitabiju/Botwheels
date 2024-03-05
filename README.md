@@ -20,3 +20,8 @@ Bluetooth module
 #### Chatbot Interface:
 Arduino Ide 1.8.19
 Messaging platform API (e.g. Alen AI API)
+
+![WhatsApp Image 2023-06-29 at 11 47 35](https://github.com/Lenitabiju/Botwheels/assets/157798373/a73f2db3-0d17-447f-b7c1-21294a095262)
+![WhatsApp Image 2023-06-29 at 11 47 37](https://github.com/Lenitabiju/Botwheels/assets/157798373/56d4ad55-0624-4b69-8f01-16549f8ab2fa)
+
+
